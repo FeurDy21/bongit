@@ -18,9 +18,10 @@ and open the template in the editor.
     </head>
     <body>
         
-    <p>je suis heureux, je suis ingenieur </p>
+    
         <?php
         // put your code here
          ?>
+     <p>la branche 1 vient de me creer </p>
     </body>
 </html>
