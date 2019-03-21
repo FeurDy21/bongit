@@ -6,8 +6,15 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <meta charset="UTF-8">
-        <title></title>
+        <meta charset="UTF-8"/>  
+        <title>galogbe git</title>
+        <style>
+          p{
+              font-weight: bold; 
+            color: red;
+            font-size: 15px;
+          }
+        </style>  
     </head>
     <body>
         
