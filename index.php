@@ -11,14 +11,14 @@ and open the template in the editor.
         <style>
           p{
               font-weight: bold; 
-            color: red;
+            color: #fbc531;
             font-size: 15px;
           }
         </style>  
     </head>
     <body>
         
-    <p>je ne suis un ingenieur rigoureux </p>
+    <p>je suis heureux, je suis ingenieur </p>
         <?php
         // put your code here
          ?>
