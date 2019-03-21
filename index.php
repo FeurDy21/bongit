@@ -18,9 +18,9 @@ and open the template in the editor.
     </head>
     <body>
         
+
     <p>je ne suis un ingenieur en master </p>
-        <?php
-        // put your code here
-         ?>
+
+  
     </body>
 </html>
