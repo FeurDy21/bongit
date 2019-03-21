@@ -11,7 +11,7 @@ and open the template in the editor.
         <style>
           p{
               font-weight: bold; 
-            color: red;
+            color: #fbc531;
             font-size: 15px;
           }
         </style>  
